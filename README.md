@@ -48,8 +48,8 @@ Hello! I'm a passionate Data Science graduate student at PUCIT, dedicated to exp
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashalaf&theme=radical)
 
-</div>
 ---
+</div>
 
 ## 📞 Contact Me
 
