@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Main Header -->
-<h1 align="center"> 
-  <img src="https://img.icons8.com/clouds/100/000000/user.png" width="30" /> 
+<h1 align="center">  
   Yashal Hussain
 </h1>
 
