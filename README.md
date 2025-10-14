@@ -1,14 +1,44 @@
 <div align="center">
 
-## Yashal Hussain
-## 🎓 MS Data Science @ PUCIT
-### 🤖 Machine Learning | 📊 Data Analysis | 🔬 AI Research
+<!-- Main Header -->
+<h1 align="center"> 
+  <img src="https://img.icons8.com/clouds/100/000000/user.png" width="30" /> 
+  Yashal Hussain
+</h1>
 
+<!-- Subtitle -->
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/000000/student-center.png" width="20" />
+  MS Data Science Student | PUCIT
+  <img src="https://img.icons8.com/color/48/000000/student-center.png" width="20" />
+</h3>
+
+<!-- Specialization Box -->
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; margin: 15px 0; color: white;">
+  
+  <h4 style="margin: 0; color: white;">🎯 Area of Expertise</h4>
+  <p style="margin: 10px 0 0 0; font-size: 16px;">
+    <b>🤖 Machine Learning</b> • 
+    <b>📊 Data Analysis</b> • 
+    <b>🧠 AI Research</b>
+  </p>
+  
+</div>
+
+<!-- Technology Stack -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-green" alt="Python">
-  <img src="https://img.shields.io/badge/Data-Science-blue" alt="Data Science">
-  <img src="https://img.shields.io/badge/Machine-Learning-orange" alt="ML">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Data_Science-Advanced-430098?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science">
+  <img src="https://img.shields.io/badge/Machine_Learning-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
+  <br>
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/R-Programming-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
+
+<!-- Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 </div>
 
 ## 📋 Table of Contents
