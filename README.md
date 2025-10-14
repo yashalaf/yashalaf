@@ -1,11 +1,13 @@
-<!-- Banner Section -->
 <div align="center">
 
-![Data Science Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Data+Science+%7C+Machine+Learning+%7C+AI+Research)
+# 🚀 Yashal Hussain
 
-**or**
+## 💫 MS Data Science Student @ PUCIT
+### 🤖 Machine Learning | 📊 Data Analysis | 🎯 AI Research
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="https://via.placeholder.com/800x150/0D1117/FFFFFF?text=Data+Science+Portfolio" alt="Banner" />
+
+---
 
 </div>
 
