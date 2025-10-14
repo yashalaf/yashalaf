@@ -1,5 +1,5 @@
 
-## About Me\
+## About Me
 **Name:** *Yashal Hussain*\
 **University:** *Punjab University College of Information Technology* **(PUCIT)**\
 **Department:** *Data Science*\
