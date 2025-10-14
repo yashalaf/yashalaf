@@ -35,11 +35,15 @@ Hello! I'm a passionate Data Science graduate student at PUCIT, dedicated to exp
 ---
 ## 📊 GitHub Stats
 <div align="center">
+  
 ![Yashal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashalaf&show_icons=true&theme=radical&hide_border=true)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashalaf&layout=compact&theme=radical&hide_border=true)
+
+![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=yashalaf&theme=radical)
+
 </div>
----
+
 
 
 
