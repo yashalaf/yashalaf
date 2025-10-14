@@ -43,6 +43,8 @@
 ## 📋 Table of Contents
 - [About Me](#about-me)
 - [Skills](#skills)
+- [Project Overview](#project-overview)
+- [Checklist for Goals](#checklist-for-goals)
 - [My GitHub Repositories](#my-github-repositories)
 - [GitHub Stats](#github-stats)
 - [Contact Me](#contact-me)
@@ -69,6 +71,24 @@ Hello! I'm a passionate Data Science graduate student at PUCIT, dedicated to exp
 - **Git & GitHub** 🔀 - Version control
 - **Jupyter Notebooks** 📓 - Interactive coding
 - **Data Preprocessing** 🧹 - Cleaning and preparation
+---
+## 📊 Project Overview
+| Project | Technologies | Status | Description |
+|---------|--------------|---------|-------------|
+| Customer Segmentation | Python, Scikit-learn | 🔄 Planning | ML clustering for customer groups |
+| Predictive Maintenance | Python, TensorFlow | 🔄 Planning | Equipment failure prediction |
+| Data Dashboard | Plotly, Dash | 🔄 Planning | Interactive analytics dashboard |
+| Academic Projects | R, SQL, Excel | 🔄 Planning | University assignments & research |
+---
+## 🎯 Checklist for Goals
+**🏆 Achieved Goals** 
+- [x] ✅ PUCIT Admission - MS Data Science
+- [x] ✅ GitHub Portfolio Created
+**🎯 Next Goals** 
+- [ ] Learn Advanced Python Libraries
+- [ ] Complete Data Analysis Project  
+- [ ] Build ML Classification Model
+- [ ] Learn Deep Learning
 ---
 ## 📂 My GitHub Repositories
 
