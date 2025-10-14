@@ -6,7 +6,7 @@
 **Year:** *1st Semester*\
 **👋 Introduction**\
 Hello! I'm a passionate Data Science graduate student at PUCIT, dedicated to exploring the fascinating world of data analytics and machine learning. I enjoy transforming raw data into meaningful insights and developing intelligent solutions that can make a real-world impact.\
-**Interests:** Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, and AI Research\
+**🧠 Interests:** Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, and AI Research\
 **🎯 Goals:** To become a proficient Data Scientist, contribute to cutting-edge AI research, and develop solutions that solve complex business problems through data-driven approaches
 > *"Data is the new science. Big Data holds the answers."* - Pat Gelsinger
 ---
@@ -24,7 +24,15 @@ Hello! I'm a passionate Data Science graduate student at PUCIT, dedicated to exp
 ---
 ## 📂 My GitHub Repositories
 
-
+1. **[my-first-repo](https://github.com/yashalaf/my-first-repo)**  
+  > My first Git repository containing Python projects and version control exercises. Learning fundamental programming concepts and collaboration workflows.
+2. **[Assignment 2_Form](https://github.com/yashalaf/Assignment-2_Form)**  
+  > JavaScript form handling project implementing user input validation and interactive web elements for enhanced user experience.
+3. **[WebTech](https://github.com/yashalaf/WebTech)**  
+  > Web technology assignments demonstrating front-end development skills and modern web programming techniques.
+4. **[yashalaf](https://github.com/yashalaf/yashalaf)**  
+  > My professional GitHub profile README showcasing my Data Science journey at PUCIT, technical skills, and project portfolio.
+5. **[Assignment
 
 
 
