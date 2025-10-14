@@ -1,5 +1,13 @@
-![Banner](https://via.placeholder.com/1200x200/0D1117/00D8FF?text=👋+Welcome+to+My+Data+Science+Portfolio)
-![Header](https://via.placeholder.com/1200x150/1a1a1a/FFFFFF?text=Yashal+Hussain+%7C+MS+Data+Science+%7C+PUCIT)
+<!-- Banner Section -->
+<div align="center">
+
+![Data Science Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Data+Science+%7C+Machine+Learning+%7C+AI+Research)
+
+**or**
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</div>
 
 ## 📋 Table of Contents
 - [About Me](#about-me)
