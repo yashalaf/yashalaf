@@ -1,18 +1,30 @@
 <div align="center">
 
-<!-- Main Header -->
-<h1 align="center">  
-  Yashal Hussain
-</h1>
+<!-- Main Header with GIF -->
+<table>
+  <tr>
+    <td align="center" width="75%">
+      <h1 align="center"> 
+        <img src="https://img.icons8.com/clouds/100/000000/user.png" width="30" /> 
+        Yashal Hussain
+      </h1>
+      
+      <h3 align="center">
+        <img src="https://img.icons8.com/color/48/000000/student-center.png" width="20" />
+        MS Data Science Student | PUCIT
+        <img src="https://img.icons8.com/color/48/000000/student-center.png" width="20" />
+      </h3>
+    </td>
+    <td align="center" width="25%">
+      <!-- Choose one GIF from below -->
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" alt="Data Science GIF">
+      <!-- <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120" alt="AI GIF"> -->
+      <!-- <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="120" alt="Programming GIF"> -->
+    </td>
+  </tr>
+</table>
 
-<!-- Subtitle -->
-<h3 align="center">
-  <img src="https://img.icons8.com/color/48/000000/student-center.png" width="20" />
-  MS Data Science Student | PUCIT
-  <img src="https://img.icons8.com/color/48/000000/student-center.png" width="20" />
-</h3>
-
-<!-- Specialization Box -->
+<!-- Rest of the code remains same -->
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; margin: 15px 0; color: white;">
   
   <h4 style="margin: 0; color: white;">🎯 Area of Expertise</h4>
@@ -24,7 +36,6 @@
   
 </div>
 
-<!-- Technology Stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Data_Science-Advanced-430098?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science">
@@ -35,11 +46,9 @@
   <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-<!-- Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 </div>
-
 ## 📋 Table of Contents
 - [About Me](#about-me)
 - [Skills](#skills)
