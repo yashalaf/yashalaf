@@ -1,15 +1,3 @@
-<div align="center">
-
-# 🚀 Yashal Hussain
-
-## 💫 MS Data Science Student @ PUCIT
-### 🤖 Machine Learning | 📊 Data Analysis | 🎯 AI Research
-
-<img src="https://via.placeholder.com/800x150/0D1117/FFFFFF?text=Data+Science+Portfolio" alt="Banner" />
-
----
-
-</div>
 
 ## 📋 Table of Contents
 - [About Me](#about-me)
