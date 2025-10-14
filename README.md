@@ -7,7 +7,7 @@
 **Introduction**\
 Hello! I'm a passionate Data Science graduate student at PUCIT, dedicated to exploring the fascinating world of data analytics and machine learning. I enjoy transforming raw data into meaningful insights and developing intelligent solutions that can make a real-world impact.
 **Interests:** Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, and AI Research\
-**Goals:** To become a proficient Data Scientist, contribute to cutting-edge AI research, and develop solutions that solve complex business problems through data-driven approaches\
+**Goals:** To become a proficient Data Scientist, contribute to cutting-edge AI research, and develop solutions that solve complex business problems through data-driven approaches
 > *"Data is the new science. Big Data holds the answers."* - Pat Gelsinger
 ---
 
