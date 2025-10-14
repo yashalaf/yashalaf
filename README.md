@@ -1,25 +1,16 @@
 <div align="center">
 
-<!-- Main Header with GIF -->
-<table>
-  <tr>
-    <td align="center" width="80%">
-      <h1 align="center"> 
-        <img src="https://img.icons8.com/clouds/100/000000/user.png" width="30" /> 
-        Yashal Hussain
-      </h1>
-      
-      <h3 align="center">
-        <img src="https://img.icons8.com/color/48/000000/student-center.png" width="20" />
-        MS Data Science Student | PUCIT
-        <img src="https://img.icons8.com/color/48/000000/student-center.png" width="20" />
-      </h3>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+<!-- Main Header -->
+<h1 align="center"> 
+  Yashal Hussain
+</h1>
+
+<!-- Subtitle -->
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/000000/student-center.png" width="20" />
+  MS Data Science Student | PUCIT
+  <img src="https://img.icons8.com/color/48/000000/student-center.png" width="20" />
+</h3>
 
 <!-- Specialization Box -->
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; margin: 15px 0; color: white;">
@@ -47,7 +38,7 @@
 <!-- Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-</div>
+</div> 
 
 ## 📋 Table of Contents
 - [About Me](#about-me)
