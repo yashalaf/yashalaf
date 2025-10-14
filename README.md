@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Yashal Hussain
+## Yashal Hussain
 
 ## 🎓 MS Data Science @ PUCIT
 ### 🤖 Machine Learning | 📊 Data Analysis | 🔬 AI Research
