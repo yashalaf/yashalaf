@@ -1,3 +1,19 @@
+<div align="center">
+
+# 👋 Yashal Hussain
+
+## 🎓 MS Data Science @ PUCIT
+### 🤖 Machine Learning | 📊 Data Analysis | 🔬 AI Research
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-green" alt="Python">
+  <img src="https://img.shields.io/badge/Data-Science-blue" alt="Data Science">
+  <img src="https://img.shields.io/badge/Machine-Learning-orange" alt="ML">
+</p>
+
+---
+
+</div>
 
 ## 📋 Table of Contents
 - [About Me](#about-me)
