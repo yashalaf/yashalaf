@@ -83,7 +83,7 @@ Hello! I'm a passionate Data Science graduate student at PUCIT, dedicated to exp
 ## 🎯 Checklist for Goals
 **🏆 Achieved Goals** 
 - [x] ✅ PUCIT Admission - MS Data Science
-- [x] ✅ GitHub Portfolio Created
+- [x] ✅ GitHub Portfolio Created\
 **🎯 Next Goals** 
 - [ ] Learn Advanced Python Libraries
 - [ ] Complete Data Analysis Project  
