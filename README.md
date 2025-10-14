@@ -1,10 +1,13 @@
+![Banner](https://via.placeholder.com/1200x200/0D1117/00D8FF?text=👋+Welcome+to+My+Data+Science+Portfolio)
+![Header](https://via.placeholder.com/1200x150/1a1a1a/FFFFFF?text=Yashal+Hussain+%7C+MS+Data+Science+%7C+PUCIT)
+
 ## 📋 Table of Contents
 - [About Me](#about-me)
 - [Skills](#skills)
 - [My GitHub Repositories](#my-github-repositories)
 - [GitHub Stats](#github-stats)
 - [Contact Me](#contact-me)
-
+---
 ## 👤 About Me
 **Name:** *Yashal Hussain*\
 **University:** *Punjab University College of Information Technology* **(PUCIT)**\
