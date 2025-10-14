@@ -1,3 +1,9 @@
+## 📋 Table of Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [My GitHub Repositories](#my-github-repositories)
+- [GitHub Stats](#github-stats)
+- [Contact Me](#contact-me)
 
 ## 👤 About Me
 **Name:** *Yashal Hussain*\
