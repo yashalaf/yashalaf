@@ -49,6 +49,7 @@ Hello! I'm a passionate Data Science graduate student at PUCIT, dedicated to exp
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashalaf&theme=radical)
 
 </div>
+---
 
 ## 📞 Contact Me
 
@@ -57,6 +58,7 @@ Let's connect and discuss data science, projects, or opportunities!
 - **📧 Email**: [yashalhussain053@gmail.com](mailto:yashalhussain053@gmail.com)  
 - **💼 LinkedIn**: [Yashal Hussain](https://www.linkedin.com/in/yashal-hussain-a2b574318)  
 - **🐙 GitHub**: [yashalaf](https://github.com/yashalaf)
+---
 
 
 
