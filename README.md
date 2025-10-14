@@ -32,7 +32,13 @@ Hello! I'm a passionate Data Science graduate student at PUCIT, dedicated to exp
   > *Web technology assignments demonstrating front-end development skills and modern web programming techniques.*
 4. **[yashalaf](https://github.com/yashalaf/yashalaf)**  
   > *My professional GitHub profile README showcasing my Data Science journey at PUCIT, technical skills, and project portfolio.*
-
+---
+## 📊 GitHub Stats
+<div align="center">
+![Yashal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashalaf&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashalaf&layout=compact&theme=radical&hide_border=true)
+</div>
+---
 
 
 
